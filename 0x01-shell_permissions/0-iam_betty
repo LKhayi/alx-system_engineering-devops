@@ -1,3 +1,2 @@
 #!/bin/bash
-sudo -u <user> -s
- 
+sudo -u <user> -s 
